@@ -1,6 +1,6 @@
 deep learning project for assignment completion
-name:ashishj
-usn:4ni20is026
+name:ananya prabhu
+usn:4ni20is018
 subject:deep learning
 faculty:Mayura D T madam
-topic: l2 regularization
+topic: L2 regularization
